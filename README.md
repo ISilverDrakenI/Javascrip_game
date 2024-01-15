@@ -1,2 +1,2 @@
-# Javascrip_game
+# Javascript_game
 Project_final
